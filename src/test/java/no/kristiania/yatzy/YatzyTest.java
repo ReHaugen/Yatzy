@@ -10,3 +10,4 @@ public class YatzyTest {
         assertEquals(4, new YatzyGame() .score(YatzyCategory.ONES, new int[] { 1, 1, 2, 1, 1}));
     }
 }
+//Hello
